@@ -13,3 +13,11 @@ Simple Acrylic With Bullet style.
 cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Bullet_Acrylic.xaml https://raw.githubusercontent.com/KJH-x/FlowTheme/main/Bullet_Acrylic.xaml
 ```
 <img width="100%" alt="截图_20230410082746" src="https://user-images.githubusercontent.com/53437291/230803882-7905318d-adea-4985-83f1-dc31322f0574.png">
+
+***Change History***
+
++- Fine tuned major color.
+
++- Adjust the opacity to improve readability against pure white backgrounds.
+
++- Adjust the Hint color to achieve greater visual differentiation.
