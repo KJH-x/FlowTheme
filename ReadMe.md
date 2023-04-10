@@ -4,9 +4,11 @@
 
 Simple Acrylic With Bullet style.
 
-Thanks:
+***Thanks:***
 - [Monokai](https://github.com/AtarianComputing/Monokai.flow) by [AtarianComputing](https://github.com/AtarianComputing)
 - [onsetGlaze](https://github.com/abhidahal/onsetGlaze.flow) by [abhidahal](https://github.com/abhidahal)
+
+***Install***
 ```
 cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Bullet_Acrylic.xaml https://raw.githubusercontent.com/KJH-x/FlowTheme/main/Bullet_Acrylic.xaml
 ```
