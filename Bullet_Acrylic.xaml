@@ -19,7 +19,7 @@
     <Style x:Key="ItemBulletSelectedStyle" BasedOn="{StaticResource BaseBulletStyle}" TargetType="{x:Type Border}">
         <Setter Property="Width" Value="4" />
         <Setter Property="Height" Value="50" />
-        <Setter Property="Background" Value="#F92672" />
+        <Setter Property="Background" Value="#e51050" />
     </Style>
     <Style x:Key="QueryBoxStyle" BasedOn="{StaticResource BaseQueryBoxStyle}" TargetType="{x:Type TextBox}">
         <Setter Property="Padding" Value="0,4,50,0" />
@@ -27,7 +27,7 @@
         <Setter Property="Background" Value="Transparent" />
         <Setter Property="FontSize" Value="25" />
         <Setter Property="Height" Value="38" />
-        <Setter Property="CaretBrush" Value="#F92672" />
+        <Setter Property="CaretBrush" Value="#e51050" />
     </Style>
     <Style x:Key="QuerySuggestionBoxStyle" BasedOn="{StaticResource BaseQuerySuggestionBoxStyle}" TargetType="{x:Type TextBox}">
         <Setter Property="Padding" Value="0,4,50,0" />
