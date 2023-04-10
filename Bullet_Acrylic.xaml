@@ -34,14 +34,14 @@
         <Setter Property="Background" Value="Transparent" />
         <Setter Property="Height" Value="38" />
         <Setter Property="FontSize" Value="25" />
-        <Setter Property="Foreground" Value="LightGray" />
+        <Setter Property="Foreground" Value="#40FFFFFF" />
     </Style>
     <Style x:Key="WindowBorderStyle" BasedOn="{StaticResource BaseWindowBorderStyle}" TargetType="{x:Type Border}">
         <Setter Property="BorderThickness" Value="1" />
         <Setter Property="BorderBrush" Value="#444444" />
         <Setter Property="Background">
             <Setter.Value>
-                <SolidColorBrush Opacity="0.3" Color="Black" />
+                <SolidColorBrush Opacity="0.5" Color="Black" />
             </Setter.Value>
         </Setter>
         <Setter Property="CornerRadius" Value="8" />
@@ -73,7 +73,7 @@
     <Style x:Key="ItemSubTitleSelectedStyle" BasedOn="{StaticResource BaseItemSubTitleSelectedStyle}" TargetType="{x:Type TextBlock}">
         <Setter Property="Foreground" Value="#bebec1" />
     </Style>
-    <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#44F92672</SolidColorBrush>
+    <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#44e51050</SolidColorBrush>
     <Style x:Key="ThumbStyle" BasedOn="{StaticResource BaseThumbStyle}" TargetType="{x:Type Thumb}">
         <Setter Property="Template">
             <Setter.Value>
